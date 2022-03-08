@@ -1,0 +1,34 @@
+{
+  "notes": [
+    {
+      "title": "Paying Today",
+      "details": "By 5pm today I intend to pay for my new apartment",
+      "category": "money",
+      "id": 4
+    },
+    {
+      "title": "Playing Tennis",
+      "details": "So tomorrow by 10am I would be playing the lawn tennis with my friends Engr Ese and Courage",
+      "category": "Todos",
+      "id": 5
+    },
+    {
+      "title": "Going shopping",
+      "details": "I would be grocery shopping for my imaginary wife today, and I just hope she would love these things I am buying now.",
+      "category": "reminders",
+      "id": 6
+    },
+    {
+      "title": "Vision 2023",
+      "details": "I've decided to use the 52 Saturdays in this year to learn Solidity and Web3.0 development, the goal is to be a full blown Web3.0 developer come 2023.",
+      "category": "work",
+      "id": 8
+    },
+    {
+      "title": "Surprise Surprise for mommy",
+      "details": "Hey! tomorrow is pay day, I promise to use my money wisely as usual only that this time I would be buying my mom a car. Shhhhhh!!! do not tell her, its a secrete",
+      "category": "money",
+      "id": 9
+    }
+  ]
+}
